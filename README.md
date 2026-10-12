@@ -173,7 +173,7 @@ IPهایی که به عدد `8` ختم می‌شوند:
 
 > **توجه:** رفتار دقیق فیلترها به پیاده‌سازی برنامه بستگی دارد. نمونه‌های بالا باید مطابق قالب ورودی پذیرفته‌شده در رابط کاربری استفاده شوند؛ مقادیر Exclude لزوماً معادل CIDR معتبر نیستند.
 
-### 🧠 نحوه عملکرد
+### 🦾 نحوه عملکرد
 
 فرایند کلی اسکن به این صورت است:
 
@@ -249,6 +249,7 @@ yakuza-cloudflare-scanner/
         ├── Shabnam-*.woff2
         ├── fira-code-*.woff2
         └── rajdhani-*.woff2
+		└── more fonts
 ```
 
 - `index.html`: رابط کاربری، استایل‌ها و اجزای صفحه
@@ -267,8 +268,16 @@ yakuza-cloudflare-scanner/
 این پروژه تحت مجوز [MIT](LICENSE) منتشر شده است. برای جزئیات استفاده، تغییر و توزیع، فایل مجوز مخزن را مطالعه کنید.
 
 </div>
+<div align="center">
 
 ### ساخته شده با 🧠 توسط [داوود یاحی - Davood Yahay](https://davoodya.ir)
+
+<p>
+  <a href="#-yakuza-cloudflare-scanner">⬆️ Back to Top</a> ·
+</p>
+
+</div>
+
 
 ---
 
@@ -419,7 +428,7 @@ Example exclusion values:
 
 > **Note:** Exact filter behavior depends on the application's implementation. Use values compatible with the input format accepted by the UI; Exclude entries are not necessarily valid CIDR ranges.
 
-### 🧠 How It Works
+### 🦾 How It Works
 
 The general scanning pipeline is:
 
@@ -495,6 +504,7 @@ yakuza-cloudflare-scanner/
         ├── Shabnam-*.woff2
         ├── fira-code-*.woff2
         └── rajdhani-*.woff2
+		└── more fonts
 ```
 
 - `index.html`: User interface, styles, and page components
