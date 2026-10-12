@@ -50,7 +50,7 @@
 git clone https://github.com/davoodya/yakuza-cloudflare-scanner.git
 cd yakuza-cloudflare-scanner
 python -m http.server 8080
-
+```
 سپس باز کنید: http://localhost:8080
 
 روش ۳ — با Node.js:
