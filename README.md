@@ -268,6 +268,8 @@ yakuza-cloudflare-scanner/
 
 </div>
 
+### ساخته شده با 🧠 توسط [داوود یاحی - Davood Yahay](https://davoodya.ir)
+
 ---
 
 <div id="english" dir="ltr">
@@ -516,7 +518,7 @@ Released under the [MIT License](LICENSE). Refer to the repository's license fil
 
 <div align="center">
 
-### ❤️ Created by [Davood Yahay](https://davoodya.ir)
+### Created by 🧠 [Davood Yahay](https://davoodya.ir)
 
 <p>
   <a href="#-yakuza-cloudflare-scanner">⬆️ Back to Top</a> ·
