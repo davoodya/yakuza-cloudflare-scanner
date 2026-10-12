@@ -28,7 +28,7 @@
 
 <div dir="rtl">
 
-## 🇮🇷 نسخه فارسی
+## نسخه فارسی 🇮🇷
 
 > ابزاری سبک، بدون نیاز به نصب و مبتنی بر مرورگر برای بررسی IPهای Cloudflare و شناسایی IPهای دارای تأخیر کمتر.
 
@@ -67,7 +67,9 @@
 2. فایل `index.html` را در مرورگر باز کنید.
 3. پارامترها را تنظیم کرده و اسکن را شروع کنید.
 
+<div align="center">
 <a href="https://github.com/davoodya/yakuza-cloudflare-scanner/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/⬇️_Download-Source_Code-2563eb?style=for-the-badge" alt="Download Source Code"></a>
+</div>
 
 #### روش دوم: اجرا با Python
 
@@ -260,8 +262,10 @@ yakuza-cloudflare-scanner/
 
 برای گزارش باگ، پیشنهاد قابلیت جدید یا مشارکت در توسعه، از بخش Issues و Pull Requests مخزن استفاده کنید.
 
+<div align="center">
 <a href="https://github.com/davoodya/yakuza-cloudflare-scanner/issues"><img src="https://img.shields.io/badge/Report_a_Bug-Issues-dc2626?style=for-the-badge&logo=github" alt="Report a Bug"></a>
 <a href="https://github.com/davoodya/yakuza-cloudflare-scanner/pulls"><img src="https://img.shields.io/badge/Contribute-Pull_Requests-16a34a?style=for-the-badge&logo=github" alt="Contribute"></a>
+</div>
 
 ### 📄 مجوز
 
@@ -322,7 +326,9 @@ Built with HTML, CSS, and JavaScript, it requires no framework, package installa
 2. Open `index.html` in your browser.
 3. Configure the parameters and start scanning.
 
+<div align="center">
 <a href="https://github.com/davoodya/yakuza-cloudflare-scanner/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/⬇️_Download-Source_Code-2563eb?style=for-the-badge" alt="Download Source Code"></a>
+</div>
 
 #### Option 2: Run with Python
 
@@ -514,10 +520,11 @@ yakuza-cloudflare-scanner/
 ### 🤝 Contributing
 
 Bug reports, feature suggestions, and pull requests are welcome. Use the repository's Issues and Pull Requests sections to participate.
-
+<div align="center">
 <a href="https://github.com/davoodya/yakuza-cloudflare-scanner/issues"><img src="https://img.shields.io/badge/Report_a_Bug-Issues-dc2626?style=for-the-badge&logo=github" alt="Report a Bug"></a>
 <a href="https://github.com/davoodya/yakuza-cloudflare-scanner/pulls"><img src="https://img.shields.io/badge/Contribute-Pull_Requests-16a34a?style=for-the-badge&logo=github" alt="Contribute"></a>
 
+</div>
 ### 📄 License
 
 Released under the [MIT License](LICENSE). Refer to the repository's license file for the terms of use, modification, and distribution.
