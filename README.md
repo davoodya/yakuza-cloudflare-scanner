@@ -9,7 +9,7 @@
   <a href="https://github.com/davoodya/yakuza-cloudflare-scanner"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/Dependencies-Zero-a855f7?style=for-the-badge" alt="Zero Dependencies">
-  <img src="https://img.shields.io/badge/HTML5-CSS3-JavaScript-blue?style=for-the-badge" alt="HTML CSS JavaScript">
+  <img src="https://img.shields.io/badge/HTML5--CSS3--JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="HTML5, CSS3, JavaScript">
 </p>
 
 <p>
